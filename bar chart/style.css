@@ -1,0 +1,16 @@
+ 
+#chart_test     {
+    width: 1000px;
+    height: 500px;
+    background-color: #f7f7f7;
+    margin: 25px auto;
+}
+/*
+ svg > rect            {
+    display: inline-block;
+    width: 25px;
+    height: 400px;
+    background-color: #7ed26d;
+    margin-right: 2px;
+}
+*/
