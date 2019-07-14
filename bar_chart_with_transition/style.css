@@ -1,0 +1,21 @@
+.barchart_t {
+    width: 1000px;
+    height: 500px;
+    background-color: #f7f7f7;
+    margin: 25px auto;
+    
+}
+
+header {
+    font-style: italic;
+    font-size: 30px;    
+    text-align: center;
+    margin: 10px auto;
+}
+
+button {
+    height: 50px;
+    width: 80px;
+    display: block;
+    margin: 5px auto;
+}
